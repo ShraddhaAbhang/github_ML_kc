@@ -15,3 +15,5 @@ price = model.predict([[area]])
 print("area = ", area, "price = ", price)
 
 
+
+
