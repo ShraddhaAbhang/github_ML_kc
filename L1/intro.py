@@ -1,9 +1,9 @@
 '''
 Data Science: --- 
 
-    data structures:               stack, queue, linkedlist, tree and graph
-    data bases:                    sql(mysql, sqlite) and nosql(mongodb, firebase)
-    data extraction:               requests and bs4
+    data structures:                stack, queue, linkedlist, tree and graph
+    data bases:                     sql(mysql, sqlite) and nosql(mongodb, firebase)
+    data extraction:                requests and bs4
 
 
     data analysis:                  pandas
@@ -37,16 +37,16 @@ Data Science: ---
         
 
     When y is dependent on one/1 variable:
-    y --> x                     Simple Linear Regression
-    price  --> area              -- Supervised Algo: input and output
-    dep        indep                    feature, target
-    target     feature
-                    y = b0 + b1 * x
-                      inter slope
-                    y = mx + c
+            y --> x                     Simple Linear Regression
+            price  --> area              -- Supervised Algo: input and output
+            dep        indep                    feature, target
+            target     feature
+                            y = b0 + b1 * x
+                              inter slope
+                            y = mx + c
     
 
-    y --> x1, x2, x3            Multi Linear Regression
+            y --> x1, x2, x3            Multi Linear Regression
 
 
 '''
